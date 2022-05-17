@@ -1,1 +1,4 @@
-Control de GAstos
+Control de Gastos
+HTML
+CSS
+JS
